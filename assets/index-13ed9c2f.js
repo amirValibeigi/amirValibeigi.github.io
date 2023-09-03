@@ -1,0 +1,1 @@
+import{j as e,L as r}from"./index-0e8a4416.js";function a(){return e.jsx("div",{children:e.jsx(r,{to:"/react-native-persian-date-picker",children:"react-native persian date picker"})})}export{a as default};

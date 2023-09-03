@@ -1,0 +1,1 @@
+import{R as e,j as s,O as t}from"./index-5fb02242.js";import{c as r}from"./ClassStyle-81f0bb9c.js";const m="_main_gh144_1",n={main:m},l=e.memo(({side:a})=>s.jsxs("div",{className:r("d-flex flex-row-reverse bg-gray",n.main),children:[a,s.jsx("main",{className:"w-100",children:s.jsx(t,{})})]}));export{l as default};
